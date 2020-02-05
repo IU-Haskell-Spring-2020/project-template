@@ -19,3 +19,4 @@ cabal.sandbox.config
 *.hp
 *.eventlog
 cabal.project.local
+stack.yaml.lock

@@ -1,6 +1,6 @@
 # project-template
 
-[![Build Status](https://travis-ci.org/iu-haskell-spring-2019/project-template.svg?branch=master)](https://travis-ci.org/iu-haskell-spring-2019/project-template)
+[![Build Status](https://travis-ci.org/iu-haskell-spring-2020/project-template.svg?branch=master)](https://travis-ci.org/iu-haskell-spring-2020/project-template)
 
 Template for a Haskell project.
 
@@ -20,7 +20,7 @@ stack build
 ```
 
 This will install all dependencies, including a proper version of GHC
-(which should be there already if you have Haskell Platform 8.4.3).
+(which should be there already if you have Haskell Platform 8.6.5).
 
 ## Run
 
